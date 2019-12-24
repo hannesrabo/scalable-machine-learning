@@ -1,2 +1,4 @@
 # scalable-machine-learning
 Project and lab work from the course scalable machine learning
+
+This project work consists of three discrete parts. Image captioning using the techniques proposed in the paper show and tell, data pre-processing and simple regressions/classifications for large data sets using spark ml as well as our personal project where we did sequence learning together with linear programming optimisation to predict the optimal team to chose for the game “Fantasy Football”.  All parts achieved good predictive performance with the project achieving performance similar to the best players in the world.
